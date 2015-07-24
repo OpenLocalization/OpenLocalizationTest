@@ -1,2 +1,4 @@
-# OpenLocalizationTest TestBranch
-OpenLocalization testing target
+{
+  "branch": "test",
+  "locales": ["zh-Hant", "zh-Hans", "de", "fr"]
+}
